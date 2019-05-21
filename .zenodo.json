@@ -1,0 +1,16 @@
+{
+    "description": "On Strong Stability of Explicit Runge-Kutta Methods for Nonlinear Semibounded Operators",
+    "license": "mit-license",
+    "title": "ranocha/StrongStabilityExplicitRungeKuttaForNonlinearOperators",
+    "version": "v1.0.0",
+    "upload_type": "software",
+    "publication_date": "2019-05-21",
+    "creators": [
+        {
+            "affiliation": "TU Braunschweig",
+            "name": "Hendrik Ranocha",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}

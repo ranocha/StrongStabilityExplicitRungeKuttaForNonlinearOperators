@@ -1,7 +1,7 @@
 # On Strong Stability of Explicit Runge-Kutta Methods for Nonlinear Semibounded Operators
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/XXXX.svg)](https://doi.org/XXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3066828.svg)](https://doi.org/10.5281/zenodo.3066828)
 
 
 This repository contains some code used in the article
@@ -42,7 +42,7 @@ use the implementations provided here, please cite this repository as
   year={2018},
   month={11},
   howpublished={\url{https://github.com/ranocha/StrongStabilityExplicitRungeKuttaForNonlinearOperators}},
-  doi={XXXX}
+  doi={10.5281/zenodo.3066828}
 }
 ```
 
