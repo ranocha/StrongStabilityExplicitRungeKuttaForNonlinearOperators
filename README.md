@@ -6,12 +6,18 @@
 
 This repository contains some code used in the article
 ```
-@online{ranocha2018strong,
-  title={On Strong Stability of Explicit {R}unge--{K}utta Methods for Nonlinear
-         Semibounded Operators},
+@article{ranocha2021strong,
+  title={On Strong Stability of Explicit {R}unge-{K}utta Methods for
+         Nonlinear Semibounded Operators},
   author={Ranocha, Hendrik},
-  year={2018},
-  month={11},
+  journal={IMA Journal of Numerical Analysis},
+  year={2021},
+  month={01},
+  volume={41},
+  number={1},
+  pages={654--682},
+  publisher={Oxford University Press},
+  doi={10.1093/imanum/drz070},
   eprint={1811.11601},
   eprinttype={arxiv},
   eprintclass={math.NA}
